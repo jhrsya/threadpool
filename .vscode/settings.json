@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "functional": "cpp",
+        "future": "cpp",
+        "atomic": "cpp",
+        "condition_variable": "cpp"
+    }
+}
